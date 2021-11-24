@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"arsd-official": "10.3.8",
+		"bindbc-loader": "1.0.1",
+		"bindbc-opengl": "1.0.0",
+		"canvas": {"path":".."}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Brian"
+	],
+	"copyright": "Copyright © 2021, Brian",
+	"dependencies": {
+		"bindbc-opengl": "~>1.0.0"
+	},
+	"versions": ["GL_33"],
+	"description": "Canvas rendering library",
+	"license": "BSL-1.0",
+	"name": "canvas",
+	"stringImportPaths": ["shaders"]
+}

@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/canvas
+canvas.so
+canvas.dylib
+canvas.dll
+canvas.a
+canvas.lib
+canvas-test-*
+*.exe
+*.o
+*.obj
+*.lst

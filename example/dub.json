@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"Brian"
+	],
+	"copyright": "Copyright © 2021, Brian",
+	"dependencies": {
+		"arsd-official:simpledisplay": "~>10.3.8",
+		"canvas": {
+			"path": "..",
+			"version": ">=0.0.0"
+		}
+	},
+	"description": "Canvas example",
+	"license": "BSL-1.0",
+	"name": "example"
+}
