@@ -9,6 +9,7 @@ canvas.dll
 canvas.a
 canvas.lib
 canvas-test-*
+libcanvas.a
 *.exe
 *.o
 *.obj
